@@ -1,4 +1,4 @@
-# Movie Pairing Recommender System
+# Movie Pairing Recommender System -- Naël El Janati El Idrissi
 
 ## Objective
 
